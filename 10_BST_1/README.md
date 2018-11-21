@@ -1,4 +1,4 @@
-#BINARY SEARCH TREE
+# BINARY SEARCH TREE
 
 BST는 Binary Search Tree의 약자입니다.
 

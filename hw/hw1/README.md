@@ -2,6 +2,13 @@
 
 ## 문제 : POP, PUSH만을 이용하여 STACK1, STACK2를 합쳐라 
 
+
+
+![image](https://user-images.githubusercontent.com/31590051/48851204-d0264080-eded-11e8-84ff-48e95724637b.png)
+
+
+
+
 ### [해결방안(간략)]
 
     stack1 (0 1 2 3 4) 과 stack2 (5 6 7 8 9) 를 먼저 만든다. 
